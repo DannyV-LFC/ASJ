@@ -155,6 +155,10 @@ tbody {
   background-color: #ffffff;
 }
 
+.page-title {
+  text-align: center;
+}
+
 .header-top:not(.banner) {
   background-color: #f2f2f2;
   border-bottom: 1px solid #d0d0d0;
@@ -3256,7 +3260,7 @@ ul.pagination .page-item.active .page-link,
   padding: 7px 10px;
   border: 1px solid transparent;
   color: #999999;
-  font-size: 13px;
+  font-size: 11px;
   text-transform: uppercase;
   font-weight: 400;
 }
@@ -3269,7 +3273,7 @@ ul.pagination .page-item.active .page-link,
   color: #777777;
   background-color: transparent;
   border-bottom: 1px solid #777777;
-  font-size: 1px;
+  font-size: 13px;
 }
 
 .nav-pills.style-2 > li .nav-link {
